@@ -46,5 +46,3 @@ Estagiário de Tech Growth na Flash, buscando sempre criar soluções modernas, 
   <a href="https://www.instagram.com/igao.dev/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
