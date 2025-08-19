@@ -1,16 +1,16 @@
 # 👨‍💻 Olá, eu sou o Igor !
 <p align="left">
-Desenvolvedor de Software com foco em Back-End e desenvolvimento iOS. <br>
-Atualmente tenho focado meus estudos em <strong>iOS com Swift, e Java,</strong> com foco em transformar cada aprendizado em projetos reais. <br>
-Estagiário de Tech Growth na Flash, buscando sempre criar soluções modernas, funcionais e com propósito.
+Desenvolvedor de Software com experiência em Back-End e no desenvolvimento de aplicações nativas para iOS com Swift. <br>
+Sou motivado por transformar desafios em projetos práticos e com propósito, com foco contínuo no aprimoramento do ecossistema iOS. <br>
+Atualmente como Estagiário de Tech Growth na Flash, onde colaboro na criação de soluções modernas e funcionais. 
 </p>
 
 ## Sobre mim
 
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste
-- 📚 Aprimorando habilidades em <strong>Java e Swift (iOS)</strong>
-- 🌍 Explorando novas tecnologias e transformando ideias em soluções de software
-- 📷 Tenho um [instagram](https://www.instagram.com/igao.dev/) onde compartilho registros de eventos de tecnologia e dicas sobre desenvolvimento
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste.
+- 📚 Focado no desenvolvimento <strong>Back-End com Java (Spring Boot) e em aplicações nativas com Swift (iOS)</strong>.
+- 🌍 Apaixonado por traduzir desafios complexos em soluções de software elegantes e funcionais.
+- 📷 Engajado com a comunidade dev, compartilhando aprendizados e a cobertura de eventos no meu perfil [@igao.dev](https://www.instagram.com/igao.dev/) 
 
 ---
 
@@ -35,7 +35,7 @@ Estagiário de Tech Growth na Flash, buscando sempre criar soluções modernas, 
 [![My Skills](https://skillicons.dev/icons?i=swift,java,spring,docker,figma,git,github,mysql,postgres)](https://skillicons.dev)
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, uma mensagem no LinkedIn ou confira meu conteúdo no Instagram !
+  Vamos nos conectar ? Me envie um e-mail, uma mensagem no LinkedIn ou confira meu conteúdo no Instagram !
 </p>
 
 <p align="left">
