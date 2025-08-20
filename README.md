@@ -30,7 +30,7 @@ Atualmente atuo como Estagiário de Tech Growth na Flash, onde colaboro na cria�
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorwz&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
-## Tecnologias e linguagens 💻
+## 💻 Tecnologias e linguagens
 
 [![My Skills](https://skillicons.dev/icons?i=swift,java,spring,docker,figma,git,github,mysql,postgres)](https://skillicons.dev)
 
