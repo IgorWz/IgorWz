@@ -2,7 +2,7 @@
 <p align="left">
 Desenvolvedor de Software com experiência em Back-End e no desenvolvimento de aplicações nativas para iOS com Swift. <br>
 Sou motivado por transformar desafios em projetos práticos e com propósito, com foco contínuo no aprimoramento do ecossistema iOS. <br>
-Atualmente como Estagiário de Tech Growth na Flash, onde colaboro na criação de soluções modernas e funcionais. 
+Atualmente atuo como Estagiário de Tech Growth na Flash, onde colaboro na criação de soluções modernas e funcionais. 
 </p>
 
 ## Sobre mim
