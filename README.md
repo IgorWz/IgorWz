@@ -1,15 +1,15 @@
 # 👨‍💻 Olá, eu sou o Igor !
 <p align="left">
-Desenvolvedor de Software com experiência em Back-End e no desenvolvimento de aplicações nativas para iOS com Swift. <br>
-Sou motivado por transformar desafios em projetos práticos e com propósito, com foco contínuo no aprimoramento do ecossistema iOS. <br>
+Desenvolvedor de Software com experiência em Back-End. <br>
+Sou motivado por transformar desafios em projetos práticos e com propósito. <br>
 Atualmente atuo como Estagiário de Tech Growth na Flash, onde colaboro na criação de soluções modernas e funcionais. 
 </p>
 
 ## Sobre mim
 
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste.
-- 📚 Focado no desenvolvimento <strong>Back-End com Java (Spring Boot) e em aplicações nativas com Swift (iOS)</strong>.
-- 🌍 Apaixonado por traduzir desafios complexos em soluções de software elegantes e funcionais.
+- 📚 Focado no desenvolvimento <strong>Back-End com Java (Spring Boot) </strong>.
+- 🌍 Apaixonado por traduzir desafios complexos em soluções de software funcionais.
 - 📷 Engajado com a comunidade dev, compartilhando aprendizados e a cobertura de eventos no meu perfil [@igao.dev](https://www.instagram.com/igao.dev/) 
 
 ---
@@ -27,7 +27,7 @@ Atualmente atuo como Estagiário de Tech Growth na Flash, onde colaboro na cria�
 
 ## 💻 Tecnologias e linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=swift,java,spring,docker,figma,git,github,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,figma,git,github,mysql,postgres)](https://skillicons.dev)
 
 <p align="left">
   Vamos nos conectar ? Me envie um e-mail, uma mensagem no LinkedIn ou confira meu conteúdo no Instagram !
