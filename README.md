@@ -1,6 +1,6 @@
 # 👨‍💻 Olá, eu sou o Igor !
 <p align="left">
-Desenvolvedor de Software com experiência em Back-End. <br>
+Desenvolvedor de Software com experiência em Desenvolvimento Web/Growth. <br>
 Sou motivado por transformar desafios em projetos práticos e com propósito. <br>
 Atualmente atuo como Estagiário de Tech Growth na Flash, onde colaboro na criação de soluções modernas e funcionais. 
 </p>
